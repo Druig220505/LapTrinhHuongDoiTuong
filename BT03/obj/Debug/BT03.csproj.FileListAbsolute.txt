@@ -1,0 +1,7 @@
+D:\Chuong01\BT03\bin\Debug\BT03.exe.config
+D:\Chuong01\BT03\bin\Debug\BT03.exe
+D:\Chuong01\BT03\bin\Debug\BT03.pdb
+D:\Chuong01\BT03\obj\Debug\BT03.csproj.AssemblyReference.cache
+D:\Chuong01\BT03\obj\Debug\BT03.csproj.CoreCompileInputs.cache
+D:\Chuong01\BT03\obj\Debug\BT03.exe
+D:\Chuong01\BT03\obj\Debug\BT03.pdb
